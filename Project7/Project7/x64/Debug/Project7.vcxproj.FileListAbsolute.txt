@@ -1,0 +1,15 @@
+C:\Users\student\Documents\PP\Project7\Project7\x64\Debug\Project7.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\PP\Project7\Project7\x64\Debug\Project7.MyForm.resources
+C:\Users\student\Documents\PP\Project7\Project7\x64\Debug\Project7.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\StudioY\Practika\Project7\Project7\x64\Debug\Project7.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\StudioY\Practika\Project7\Project7\x64\Debug\Project7.MyForm.resources
+C:\Users\student\Documents\StudioY\Practika\Project7\Project7\x64\Debug\Project7.vcxproj.GenerateResource.cache
+G:\!sp\Project7\Project7\x64\Debug\Project7.vcxproj.AssemblyReference.cache
+G:\!sp\Project7\Project7\x64\Debug\Project7.MyForm.resources
+G:\!sp\Project7\Project7\x64\Debug\Project7.vcxproj.GenerateResource.cache
+G:\!sp\text_redact\Project7\x64\Debug\Project7.vcxproj.AssemblyReference.cache
+G:\!sp\text_redact\Project7\x64\Debug\Project7.MyForm.resources
+G:\!sp\text_redact\Project7\x64\Debug\Project7.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\mavletov\text_redact\Project7\x64\Debug\Project7.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\mavletov\text_redact\Project7\x64\Debug\Project7.MyForm.resources
+C:\Users\student\Documents\mavletov\text_redact\Project7\x64\Debug\Project7.vcxproj.GenerateResource.cache
