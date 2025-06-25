@@ -1,0 +1,6 @@
+C:\Users\student\Documents\alimpyeva(1)\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\alimpyeva(1)\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\student\Documents\alimpyeva(1)\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\ahmetova\вижуал\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\ahmetova\вижуал\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\student\Documents\ahmetova\вижуал\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
